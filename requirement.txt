@@ -4,3 +4,7 @@ type option
 virant
 dark
 video
+
+Pyment option
+Send money
+Recive money
